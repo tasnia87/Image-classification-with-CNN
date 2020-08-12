@@ -1,2 +1,2 @@
 # Image-classification-with-CNN
-This is a basic project of image classification using Convolution Neural Network. The main purpose of doing this project is to learn and practice the basic application of CNN model
+This is a basic project of image classification using Convolution Neural Network. The main purpose of doing this project is to learn and practice the basic application of CNN model. As I am an undergraduating research student, I am learning Machine learning and Deep learning algorithms in primary stage. This project helped me to understand the algorithm to a great extent.
